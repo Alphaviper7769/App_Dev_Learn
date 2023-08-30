@@ -1,0 +1,5 @@
+# for mac
+# sdk.dir = /Users/apple/library/Android/sdk
+
+# for windows
+sdk.dir=C:\Users\Aayush\AppData\Local\Android\Sdk
